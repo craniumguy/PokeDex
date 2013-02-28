@@ -1,1 +1,27 @@
 -- PokeDex for ComputerCraft.
+
+--sample main menu
+--[[
+                   |
+CONTENTS           |
+001                | SEEN
+   Bulbasaur       |    #
+002                |
+   Name...etc      |  OWN
+003                |    #
+   Name...etc      |
+004                |=======
+   Name...etc      |
+005                | DATA
+   Name...etc      |
+006                | CRY
+   Name...etc      |
+007                | AREA
+   Name...etc      |
+                   | QUIT
+]]
+
+--sample town map
+--[[
+]]
+
